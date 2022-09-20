@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 20px;
+    
+}
+.container{
+   /*width: 800px;
+    height: 700px;*/
+    background-color: rgb(27, 25, 36);
+    padding-top: 20px;
+    border-radius: 25px;
+    
+}
+.submitmsg {
+    color: darkred;
+    text-align: center;
+    text-decoration: none;
+}

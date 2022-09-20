@@ -1,0 +1,22 @@
+@media (min-width:425px){
+.container {
+  width: 100px;
+}
+}
+
+@media (max-width:768px){
+
+}
+
+
+@media (max-width:768px){
+.home-about-border {
+    border-left: 0px !important;
+}
+}
+
+@media (max-width:567px){
+.home-project-section img{
+  width: 100%;
+}
+}
